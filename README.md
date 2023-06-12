@@ -1,5 +1,5 @@
 # Chiffrement
-Programme de déchiffrement et chiffrement en language C. Deux types de chiffrements : chiffrment de César et chiffrment homophone.
+Programme de chiffrement et de déchiffrement en language C. Deux types de chiffrements : chiffrment de César et chiffrment homophone.
 
 Afin d'éxécuter le programme :
 - Linux :
